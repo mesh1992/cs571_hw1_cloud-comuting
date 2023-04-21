@@ -1,1 +1,1 @@
-# cs571_hw1_cloud-comuting
+# cs571_hw1_cloud-computing
